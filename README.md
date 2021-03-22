@@ -19,3 +19,22 @@
 5) Если коннекторы не появляются, скачайте и установите персональный шлюз Power BI: https://go.microsoft.com/fwlink/?LinkId=2116848&clcid=0x419. 
 В шлюзе авторизуйтесь под своей учётной записью Power BI. Далее проверьте, видит ли шлюз коннекторы, выбрав в шлюзе "Соединители" в левом меню.
 
+### Сервисы, к которым есть коннекторы:
+
+1) Яндекс.Директ
+2) Google Ads
+3) Яндекс.Метрика
+4) Google Analytics
+5) Facebook Ads
+6) VK Ads
+7) MyTarget
+8) Calltouch
+9) Comagic
+10) Alloka
+11) Mango Calltracking
+12) Primegate
+13) Ringostat
+14) AppMetrica
+15) K50:BI
+16) Google Spreadsheets
+17) Criteo
