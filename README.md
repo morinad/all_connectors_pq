@@ -1,10 +1,11 @@
 # Все нативные коннекторы для Microsoft Power BI
 
-### Наши курсы по обработке данных:
-1) Курс по коннекторам в Excel (4 часа): https://directprorf.ru/excel?utm_source=github
-2) Большой курс по обработке данных в Power Query (8 часов): https://directprorf.ru/pq?utm_source=github
+### Наши курсы:
+1) Основы Power BI (3 часа): https://directprorf.ru/basics?utm_source=github
+2) Курс по коннекторам в Excel (4 часа): https://directprorf.ru/excel?utm_source=github
+3) Большой курс по обработке данных в Power Query (8 часов): https://directprorf.ru/pq?utm_source=github
 
-По вопросам, связанным с курсами и коннекторами: https://t.me/alexdirect
+По всем вопросам, связанным с курсами и коннекторами: https://t.me/alexdirect
 
 ### Как воспользоваться коннекторами:
 
