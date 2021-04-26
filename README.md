@@ -11,7 +11,9 @@
 
 1) Скачайте архив с файлами: https://github.com/morinad/all_connectors_pq/raw/master/All.rar
 
-2) Разархивируйте все файлы в папку C:\Users\USERNAME\Documents\Power BI Desktop\Custom Connectors, подставив USERNAME своего компьютера.
+2) Разархивируйте все файлы в папку C:\Users\USERNAME\Documents\Power BI Desktop\Custom Connectors, подставив USERNAME своего компьютера. 
+Если у вас установлен OneDrive, то используйте такую папку: C:\Users\USERNAME\OneDrive\Documents\Power BI Desktop\Custom Connectors. 
+Будьте внимательны - при наличии OneDrive Power BI не увидит коннекторы по стандартному адресу.
 
 3) Откройте Power BI, зайдите в Файл -> Параметры и настройки -> Параметры -> Глобальные -> Безопасность, выберите "Разрешить загрузку любого расширения без проверок и предупреждений".
 
